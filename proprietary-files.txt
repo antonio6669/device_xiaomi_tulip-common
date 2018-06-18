@@ -471,7 +471,6 @@ vendor/lib64/vendor.xiaomi.hardware.mlipay@1.0.so|d0bb854210433066945f9d6e7943d0
 vendor/lib64/vendor.xiaomi.hardware.mlipay@1.1.so|785984e3c3b30671b78624484899dd418979cb56
 
 # Perf - from LA.UM.8.2.r1-04000-sdm660.0
-vendor/bin/energy-awareness|6515fada09432a437d2ed591ce141bb70fb10a9e
 vendor/bin/msm_irqbalance|e917104fbd26c844d27ffb2b7ec4f665fdfb8b78
 vendor/bin/hw/vendor.qti.hardware.perf@2.0-service|57b1e050c9300a72baff8a19872b5a32ae9122e9
 vendor/etc/init/vendor.qti.hardware.perf@2.0-service.rc|cc8658db5e19f8e5e575fb986e7d38147e675f8d
