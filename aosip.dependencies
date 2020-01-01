@@ -9,9 +9,9 @@
     "branch": "lineage-17.0"
   },
   {
-    "repository": "proprietary_vendor_xiaomi",
+    "repository": "xiaomi-sdm660-devs/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "ten-common"
+    "branch": "lineage-17.0"
   },
   {
     "repository": "vendor_dirac",
