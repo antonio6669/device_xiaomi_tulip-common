@@ -6,7 +6,8 @@
   },
   {
     "repository": "proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi"
+    "target_path": "vendor/xiaomi",
+    "branch": "ten-eas"
   },
   {
     "repository": "vendor_dirac",
